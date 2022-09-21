@@ -1,0 +1,32 @@
+.speech {
+    font-family: 'Comfortaa';
+    font-size: 22px;
+    font-size: medium;
+    color: black;
+}
+
+.song {
+    font-family: Georgia, serif;
+    font-size: 22px;
+    font-size: medium;
+    color: black;
+}
+
+.direction {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 22px;
+    font-size: medium;
+    color: black;
+    background-color: rgb(180, 240, 243);
+}
+
+.direction:hover {
+    background-color: cornsilk;
+    color: rgb(245, 11, 11);
+}
+
+.name {
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: medium;
+    color: black;
+}
