@@ -34,19 +34,36 @@
 .Calynx {
     font-size: 20px;
 }
-.Calynx:hover{
+
+.Calynx:hover {
     background-color: rebeccapurple;
     color: white;
-    border: solid black 2px ;
-    filter:drop-shadow(10px 10px);
+    border: solid black 2px;
+    filter: drop-shadow(10px 10px);
 }
+
 .Salata {
     font-size: 20px;
-   
+
 }
-.Salata:hover{
+
+.Salata:hover {
     background-color: rgb(60, 45, 75);
     color: rgb(213, 216, 10);
-    border: solid black 2px ;
-    filter:drop-shadow(10px 10px);
+    border: solid black 2px;
+    filter: drop-shadow(10px 10px);
+}
+
+/* table css */
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    margin: auto;
+}
+
+tr:nth-child(odd) {
+    background-color: #8F9AA5;
 }
