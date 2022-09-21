@@ -30,3 +30,23 @@
     font-size: medium;
     color: black;
 }
+
+.Calynx {
+    font-size: 20px;
+}
+.Calynx:hover{
+    background-color: rebeccapurple;
+    color: white;
+    border: solid black 2px ;
+    filter:drop-shadow(10px 10px);
+}
+.Salata {
+    font-size: 20px;
+   
+}
+.Salata:hover{
+    background-color: rgb(60, 45, 75);
+    color: rgb(213, 216, 10);
+    border: solid black 2px ;
+    filter:drop-shadow(10px 10px);
+}
